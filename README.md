@@ -1,10 +1,10 @@
 A library that makes coding in Rust just a little bit simpler. 
 
 To set this up:
--In the dependencies section of the Cargo.toml file, paste the following line in:
+1. In the dependencies section of the Cargo.toml file, paste the following line in:
 c_implifier = {git = "https://github.com/PolarBeeDev/c_implifier", branch = "master"}
--Then, in your .rs file, you can write: use c_implifier::[the gen of the commands]
--Now, you can call the commands
+2. Then, in your .rs file, you can write: use c_implifier::[the gen of the commands]
+3. Now, you can call the commands
 
 Example:
 
